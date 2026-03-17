@@ -2,28 +2,22 @@
   "name": "justke-cli",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "bin/index.js",
   "bin": {
-    "justke": "./bin/index.js"
+    "justke": "bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/RichardtJustke/justke-cli.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/RichardtJustke/justke-cli/issues"
-  },
-  "homepage": "https://github.com/RichardtJustke/justke-cli#readme",
+  "type": "module",
   "dependencies": {
     "chalk": "^5.6.2",
     "figlet": "^1.11.0",
-    "inquirer": "^13.3.0"
+    "gradient-string": "^3.0.0",
+    "inquirer": "^13.3.0",
+    "link": "^2.1.2"
   }
 }
