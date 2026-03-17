@@ -1,4 +1,4 @@
-function skills() {
+async function skills() {
   console.log(`
 ╔══════════════════════════════════╗
               SKILLS

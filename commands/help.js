@@ -1,4 +1,4 @@
-function help() {
+async function help() {
   console.log(`
 ╔══════════════════════════════════╗
                HELP

@@ -1,4 +1,4 @@
-function experience() {
+async function experience() {
   console.log(`
 ╔══════════════════════════════════╗
             EXPERIENCE

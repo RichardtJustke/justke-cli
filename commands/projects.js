@@ -1,4 +1,4 @@
-function projects() {
+async function projects() {
   console.log(`
 ╔══════════════════════════════════╗
              PROJECTS

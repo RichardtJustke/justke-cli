@@ -1,4 +1,4 @@
-function justkeOS() {
+async function justkeOS() {
   console.log(`
 ╔══════════════════════════════════╗
             JUSTKE OS

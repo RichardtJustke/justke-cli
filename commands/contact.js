@@ -1,4 +1,4 @@
-function contact() {
+async function contact() {
   console.log(`
 ╔══════════════════════════════════╗
               CONTACT

@@ -1,4 +1,4 @@
-function about() {
+async function about() {
   console.log(`
 ╔══════════════════════════════════╗
               ABOUT

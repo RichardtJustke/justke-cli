@@ -1,4 +1,4 @@
-function ketsu() {
+async function ketsu() {
   console.log(`
 ╔══════════════════════════════════╗
                KETSU

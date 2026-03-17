@@ -1,4 +1,4 @@
-function services() {
+async function services() {
   console.log(`
 ╔══════════════════════════════════╗
              SERVICES
